@@ -15,7 +15,7 @@ There are two options.
 
 -----
 ## Chapter 00
-- Lesson 00: [Hello World](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/Colab/00-Lesson-Hello_World.ipynb)
-- Project 00: [Input and Output Strings](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/Colab/00-Project-Input_and_Output_Strings.ipynb)
+- Lesson 00: [Hello World](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/CoLab/Chapter-00/00-Lesson-Hello_World.ipynb)
+- Project 00: [Input and Output Strings](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/CoLab/Chapter-00/00-Project-Input_and_Output_Strings.ipynb)
 
 -----
