@@ -7,11 +7,11 @@ There are two options.
 2. Run the Jupyter Notebooks in Colab (follow links below). No installation needed.
 
 ### Option 1
-- Download all Jupyter Notebooks (guide in eBook).
+- Download all Jupyter Notebooks.
 
 ### Option 2
 - No installations needed.
-- Follow links below in Colob.
+- Follow links below in CoLab.
 <br>
 <br>
 
