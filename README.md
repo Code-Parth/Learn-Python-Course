@@ -4,7 +4,7 @@
 
 There are two options.
 1. Download all the notebooks from this repository and run them in Jupyter Notebook.
-2. Run the Jupyter Notebooks in Colab (follow links below). No installation needed.
+2. Run the Jupyter Notebooks in CoLab (follow links below). No installation needed.
 
 ### Option 1
 - Download all Jupyter Notebooks.
