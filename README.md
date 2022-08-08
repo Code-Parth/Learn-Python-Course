@@ -31,3 +31,8 @@ There are two options.
 - Project 02: [Interactive Calculations](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/CoLab/Chapter-02/02-Project-Interactive_Calculations.ipynb)
 
 -----
+## Chapter 03
+- Lesson 03: [Type Conversion](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/CoLab/Chapter-03/03-Lesson-Program_Flow.ipynb)
+- Project 03: [Interactive Calculations](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/CoLab/Chapter-03/03-Project-Car_Ensurance.ipynb)
+
+-----
