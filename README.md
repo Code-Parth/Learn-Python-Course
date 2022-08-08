@@ -26,3 +26,8 @@ There are two options.
 - Project 01: [Calculations](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/CoLab/Chapter-01/01-Project-Calculations.ipynb)
 
 -----
+## Chapter 02
+- Lesson 02: [Type Conversion](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/CoLab/Chapter-02/02-Lesson-Type_Conversion.ipynb)
+- Project 02: [Interactive Calculations](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/CoLab/Chapter-02/02-Project-Interactive_Calculations.ipynb)
+
+-----
