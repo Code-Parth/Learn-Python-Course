@@ -36,3 +36,8 @@ There are two options.
 - Project 03: [Interactive Calculations](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/CoLab/Chapter-03/03-Project-Car_Ensurance.ipynb)
 
 -----
+## Chapter 04
+- Lesson 04: [Random](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/CoLab/Chapter-04/04-Lesson-Random.ipynb)
+- Project 04: [Game Making](https://colab.research.google.com/github/Code-Parth/Learn-Python-Course/blob/master/CoLab/Chapter-04/04-Project-Math_Game_and_Rock_Paper_Scissor_Game.ipynb)
+
+-----
